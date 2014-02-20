@@ -14,6 +14,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+THEME = './pelican-themes/bootstrap2'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
