@@ -14,7 +14,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-THEME = './pelican-themes/bootstrap2'
+THEME = './pelican-themes/tuxlite_tbs'
 DISQUS_SITENAME = u"wgs13579"
 
 # Blogroll
@@ -24,7 +24,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('twitter', ''),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
