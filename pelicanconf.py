@@ -24,7 +24,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', ''),
+SOCIAL = (('weibo', 'http://weibo.com/p/1005051068096990/home?from=page_100505&mod=TAB#place'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
