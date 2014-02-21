@@ -21,11 +21,11 @@ DISQUS_SITENAME = u"wgs13579"
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
           ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          )
 
 # Social widget
 SOCIAL = (('weibo', 'http://weibo.com/p/1005051068096990/home?from=page_100505&mod=TAB#place'),
-          ('Another social link', '#'),)
+          ('twitter', 'https://twitter.com/wgs13579'),)
 
 DEFAULT_PAGINATION = 10
 
