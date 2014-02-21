@@ -4,11 +4,14 @@ from __future__ import unicode_literals
 
 AUTHOR = u'wgs13579'
 SITENAME = u'王光木又寸'
-SITEURL = ''
+SITEURL = 'http://wgs13579.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Shanghai'
+GITHUB_URL = 'https://github.com/lizherui'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'zh'
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
