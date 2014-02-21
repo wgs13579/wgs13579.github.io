@@ -7,7 +7,7 @@ SITENAME = u'王光木又寸'
 SITEURL = 'http://wgs13579.com'
 
 TIMEZONE = 'Asia/Shanghai'
-GITHUB_URL = 'https://github.com/lizherui'
+GITHUB_URL = 'https://github.com/wgs13579'
 
 DEFAULT_LANG = u'zh'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
